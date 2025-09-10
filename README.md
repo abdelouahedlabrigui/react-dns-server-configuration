@@ -85,7 +85,7 @@ The application interacts with the following API endpoints:
 -   `GET /search-dns-server-config/:interface`: Searches stored DNS configurations by interface.
 
 Configure
-![alt text](https://github.com/abdelouahedlabrigui/react-dns-server-configuration/dns-server-apis/screenshots/dns-server-configure-search.png)
+![alt text](dns-server-apis/screenshots/dns-server-configure.png)
 
 Generate DNS Configuration
 
