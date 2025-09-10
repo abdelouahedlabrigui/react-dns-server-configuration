@@ -84,28 +84,32 @@ The application interacts with the following API endpoints:
 -   `GET /test-results/:sessionId`: Retrieves historical test results for a given session ID.
 -   `GET /search-dns-server-config/:interface`: Searches stored DNS configurations by interface.
 
-Configure
+### Configure
 ![alt text](dns-server-apis/screenshots/dns-server-configure.png)
 
-Generate DNS Configuration
+### Generate DNS Configuration
 
-![alt text](https://github.com/abdelouahedlabrigui/dns-server-apis/screenshots/dns-server-configure-generate-p1.png?raw=true)
+![alt text](dns-server-apis/screenshots/dns-server-configure-generate-p1.png)
 
-![alt text](https://github.com/abdelouahedlabrigui/dns-server-apis/screenshots/dns-server-configure-generate-p2.png?raw=true)
+![alt text](dns-server-apis/screenshots/dns-server-configure-generate-p2.png)
 
-Enhanced DNS Testing
-![alt text](https://github.com/abdelouahedlabrigui/dns-server-apis/screenshots/dns-server-configure-test-p1.png?raw=true)
+### Enhanced DNS Testing
 
-![alt text](https://github.com/abdelouahedlabrigui/dns-server-apis/screenshots/dns-server-configure-test-p2.png?raw=true)
+![alt text](dns-server-apis/screenshots/dns-server-configure-test-p1.png)
 
-Network Configuration
-![alt text](https://github.com/abdelouahedlabrigui/dns-server-apis/screenshots/dns-server-configure-network.png?raw=true)
+![alt text](dns-server-apis/screenshots/dns-server-configure-test-p2.png)
 
-Historical Test Results
-![alt text](https://github.com/abdelouahedlabrigui/dns-server-apis/screenshots/dns-server-configure-history.png?raw=true)
+### Network Configuration
 
-Search Stored Configurations
-![alt text](https://github.com/abdelouahedlabrigui/dns-server-apis/screenshots/dns-server-configure-search.png?raw=true)
+![alt text](dns-server-apis/screenshots/dns-server-configure-network.png)
+
+### Historical Test Results
+
+![alt text](dns-server-apis/screenshots/dns-server-configure-history.png)
+
+### Search Stored Configurations
+
+![alt text](dns-server-apis/screenshots/dns-server-configure-search.png)
 
 ## Contributing
 
