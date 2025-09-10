@@ -84,6 +84,29 @@ The application interacts with the following API endpoints:
 -   `GET /test-results/:sessionId`: Retrieves historical test results for a given session ID.
 -   `GET /search-dns-server-config/:interface`: Searches stored DNS configurations by interface.
 
+Configure
+![alt text](https://github.com/abdelouahedlabrigui/react-dns-server-configuration/dns-server-apis/screenshots/dns-server-configure-search.png)
+
+Generate DNS Configuration
+
+![alt text](https://github.com/abdelouahedlabrigui/dns-server-apis/screenshots/dns-server-configure-generate-p1.png?raw=true)
+
+![alt text](https://github.com/abdelouahedlabrigui/dns-server-apis/screenshots/dns-server-configure-generate-p2.png?raw=true)
+
+Enhanced DNS Testing
+![alt text](https://github.com/abdelouahedlabrigui/dns-server-apis/screenshots/dns-server-configure-test-p1.png?raw=true)
+
+![alt text](https://github.com/abdelouahedlabrigui/dns-server-apis/screenshots/dns-server-configure-test-p2.png?raw=true)
+
+Network Configuration
+![alt text](https://github.com/abdelouahedlabrigui/dns-server-apis/screenshots/dns-server-configure-network.png?raw=true)
+
+Historical Test Results
+![alt text](https://github.com/abdelouahedlabrigui/dns-server-apis/screenshots/dns-server-configure-history.png?raw=true)
+
+Search Stored Configurations
+![alt text](https://github.com/abdelouahedlabrigui/dns-server-apis/screenshots/dns-server-configure-search.png?raw=true)
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
